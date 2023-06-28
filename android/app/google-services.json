@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161884352575",
+    "project_id": "cameraman-skibidi-call",
+    "storage_bucket": "cameraman-skibidi-call.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161884352575:android:7fd4bf7ca4ef27ff5a888a",
+        "android_client_info": {
+          "package_name": "com.call_chat.cameraman_skibidi_toilet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161884352575-ik3nqdoeevtl2e45rfsncp3smqfs4fgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7jJzgin-3Zf2WddWMdP6kmQRISijk93o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161884352575-ik3nqdoeevtl2e45rfsncp3smqfs4fgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
