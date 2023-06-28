@@ -50,10 +50,6 @@ void main() async {
     EasyLocalization(
       supportedLocales: const [
         Locale('en', 'US'),
-        Locale('es', 'MX'),
-        Locale('id', 'ID'),
-        Locale('pt', 'BR'),
-        Locale('uk', 'UA'),
         Locale('ru', 'RU')
       ],
       fallbackLocale: const Locale('en', 'US'),
